@@ -1,0 +1,30 @@
+School_id,School,School_board,Total_Cases
+753203,École élémentaire catholique Roger-Saint-Denis,Conseil des écoles catholiques du Centre-Est (CECCE),11
+793027,École élémentaire catholique Saint-François-d’Assise,Conseil des écoles catholiques du Centre-Est (CECCE),63
+860573,École élémentaire catholique Sainte-Anne,Conseil des écoles catholiques du Centre-Est (CECCE),22
+734314,École élémentaire catholique Laurier-Carrière,Conseil des écoles catholiques du Centre-Est (CECCE),21
+750107,École intermédiaire catholique Franco-Ouest,Conseil des écoles catholiques du Centre-Est (CECCE),47
+907430,École secondaire publique De La Salle,Conseil des écoles publiques de l’Est de l’Ontario,47
+310415,École Ronald-Marion,Conseil Scolaire Viamonde,12
+821241,St. Marguerite d’Youville Catholic Elementary School,Halton Catholic District School Board,12
+076727,Oodeenawi Public School,Halton District School Board,9
+0,North Field Office,Peel District School Board,12
+493318,Ross Drive Public School,Peel District School Board,12
+061107,Briarwood Public School,Peel District School Board,22
+134618,Edna Staebler Public School,Waterloo Region District School Board,12
+753203,École élémentaire catholique Roger-Saint-Denis,nseil des écoles catholiques du Centre-Est (CECCE),1
+918830,John Fraser Secondary School,Peel District School Board,31
+925365,Fellowes High School,Renfrew County District School Board,51
+753157,École élémentaire catholique Marius-Barbeau,Conseil des écoles catholiques du Centre-Est (CECCE),76
+732397,École élémentaire catholique Montfort,Conseil des écoles catholiques du Centre-Est (CECCE),78
+204986,École élémentaire publique Gabrielle-Roy,Conseil des écoles publiques de l’Est de l’Ontario,129
+806919,St. Joseph Secondary School,Dufferin Peel Catholic District School Board,12
+328740,Mapleridge Public School,Durham District School Board,5
+904203,Louise Arbour Secondary School,Peel District School Board,103
+107280,Ruth Thompson Middle School,Peel District School Board,20
+054801,Bloordale Middle School,Toronto District School Board,39
+101737,Charles G Fraser Junior Public School,Toronto District School Board,10
+141380,Don Mills Middle School,Toronto District School Board,24
+158020,Earl Haig Public School,Toronto District School Board,29
+016874,Little Rouge Public School,York Region District School Board,20
+906450,Earl Haig Secondary School,Toronto District School Board,29
